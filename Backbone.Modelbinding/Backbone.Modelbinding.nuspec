@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Backbone.Modelbinding</id>
+    <version>0.3.8</version>
+    <authors>Derick Bailey</authors>
+    <owners>Chris Ortman</owners>
+    <projectUrl>https://github.com/derickbailey/backbone.modelbinding</projectUrl>
+    <description>Awesome model binding for Backbone.js</description>
+    <copyright>Copyright 2011</copyright>
+    <tags>web javascript backbone asp.net</tags>
+    <dependencies>
+      <dependency id="jquery" version="1.6.2" />
+      <dependency id="backbone.js" version="0.5.1" />
+    </dependencies>
+  </metadata>
+</package>

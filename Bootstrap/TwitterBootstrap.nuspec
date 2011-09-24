@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>TwitterBootstrap</id>
+    <version>1.3.0</version>
+    <authors>Twitter</authors>
+    <owners>Chris Ortman</owners>
+    <licenseUrl>https://github.com/twitter/bootstrap/raw/master/LICENSE</licenseUrl>
+    <projectUrl>http://twitter.github.com/bootstrap</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Bootstrap is a toolkit from Twitter designed to kickstart development of webapps and sites. It includes base CSS and HTML for typography, forms, buttons, tables, grids, navigation and more.</description>
+    <copyright>Copyright 2011</copyright>
+    <tags>less asp.net web</tags>
+    <dependencies>
+      <dependency id="less.js" version="1.1.3" />
+    </dependencies>
+  </metadata>
+</package>
