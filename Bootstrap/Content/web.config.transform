@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <configuration>
-  <system.webServer>
-    <staticContent>
-      <mimeMap fileExtension=".less" mimeType="text/css" />
-    </staticContent>
+  <system.webServer>    
+     <handlers>
+      <add name="dotless" path="*.less" verb="GET" type="dotless.Core.LessCssHttpHandler,dotless.Core" resourceType="File" preCondition="" />
+    </handlers>
   </system.webServer>
 </configuration>
 
